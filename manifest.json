@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "skill": "website-quality-review",
   "files": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "6f72407870d5c5122351508de2f17d44b758dbf688284537646ec29003cf6dd4"
+      "sha256": "bcced58f1e53d37eb4f270fb955e3551758c0e534441a85b8a3ce62a086270ba"
     },
     {
       "path": "LICENSE",
@@ -20,7 +20,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "243a17cb8afe5eef755cec969d2a06654613589ac5eff3fc74b11b7d9d9d2833"
+      "sha256": "11e49b6693abe085566ab743b292bee12b6ddeba6964c60fed344d4f126bac9f"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -32,15 +32,15 @@
     },
     {
       "path": "VALIDATION.md",
-      "sha256": "bbfa81edcd07c3bc989624fcf05357fb7537391b3009a17e312ef33d5a4d6e5d"
+      "sha256": "25313684d3a9b7697578dc7a285e77cfc4fb81852557cbcc954d5351df16f56f"
     },
     {
       "path": "VERSION",
-      "sha256": "3d097c315a1c543040f548da4c7051265e94c77211a2411ced1d4621344270de"
+      "sha256": "1f930dd1f133c1f97a94fe3acb8db34372cf4c01ffdb2b3ff4ca72f9494121e9"
     },
     {
       "path": "website-quality-review/agents/openai.yaml",
-      "sha256": "29db8a5d4b8745fef18141212b499b8e233c52ccb43d50552756dd3910ae9130"
+      "sha256": "e0f5a4af7b9b9ada7c07a2f7de21e0d94a480ccaaf1d3bebfd70cdec19b0e8bd"
     },
     {
       "path": "website-quality-review/assets/review-report.json",
@@ -55,6 +55,14 @@
       "sha256": "4c86cd3fdbb35384bdd6005a197c95a3181db9f2f2aee1fb21ebec8d631899ba"
     },
     {
+      "path": "website-quality-review/references/quality.md",
+      "sha256": "413f6c8598603892bf007dee6d46963e100292e0c90e9c3ac5a34e9c790a9348"
+    },
+    {
+      "path": "website-quality-review/references/remediation.md",
+      "sha256": "9df4f81f01c55e15a87c29a9742a4793056af7761a119a46e3c7172d53d2c886"
+    },
+    {
       "path": "website-quality-review/scripts/review_check.py",
       "sha256": "79ebf37bebe7f6421b661d692f900b6104d49da30925b6b2d6e5219452c8408e"
     },
@@ -64,7 +72,7 @@
     },
     {
       "path": "website-quality-review/SKILL.md",
-      "sha256": "8bf2f7fe75f7b92f71a622802ea49dcae7eb9cfc4c874f5a999144a2fd127eb6"
+      "sha256": "d32665745b2790434b4524b30a21c8a6cabfd377d42d116eca1adfe604253ea3"
     }
   ]
 }
