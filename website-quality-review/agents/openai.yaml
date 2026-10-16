@@ -1,4 +1,4 @@
 interface:
   display_name: "网站成品验收"
-  short_description: "对照需求检查网站内容、画面和关键操作，给出具体修复任务并按影响范围复验"
-  default_prompt: "使用 $website-quality-review 验收当前网站，列出具体问题、修复条件与未验证项。"
+  short_description: "对照策划检查内容、画面、动效与关键操作，记录覆盖缺口、具体修复任务和相关复验"
+  default_prompt: "使用 $website-quality-review 对照当前需求与方案验收网站，报告具体问题、覆盖缺口和复验结果。"

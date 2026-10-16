@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "skill": "website-quality-review",
   "files": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "bcced58f1e53d37eb4f270fb955e3551758c0e534441a85b8a3ce62a086270ba"
+      "sha256": "42caae81e753fdbe127f84775a131c2a8c1652f6801c2814d09df9288f8cafea"
     },
     {
       "path": "LICENSE",
@@ -20,11 +20,11 @@
     },
     {
       "path": "README.md",
-      "sha256": "11e49b6693abe085566ab743b292bee12b6ddeba6964c60fed344d4f126bac9f"
+      "sha256": "8ec671cbaea37ae0a2966f72ada63ff07456caf6c5d5b7b40e629d5fdfa914a6"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
-      "sha256": "74d6e2a0c2d275abf091face82ca9612e5689b34f1b8d0227974149c6e51532e"
+      "sha256": "bd44816e5dc892c5ca0d65cafa4561ff360d1e5332ebf626249924c1dfb53596"
     },
     {
       "path": "tools/release_check.py",
@@ -32,27 +32,35 @@
     },
     {
       "path": "VALIDATION.md",
-      "sha256": "25313684d3a9b7697578dc7a285e77cfc4fb81852557cbcc954d5351df16f56f"
+      "sha256": "c86f8251621e375945b7f1e864ece03073ed7085f08ab8bbff3d190df8a82ef1"
     },
     {
       "path": "VERSION",
-      "sha256": "1f930dd1f133c1f97a94fe3acb8db34372cf4c01ffdb2b3ff4ca72f9494121e9"
+      "sha256": "d915cc95d6ca8f47ae297713ed46d4e5c5d99ddd29fc3c61e263bdf305f2b5b0"
     },
     {
       "path": "website-quality-review/agents/openai.yaml",
-      "sha256": "e0f5a4af7b9b9ada7c07a2f7de21e0d94a480ccaaf1d3bebfd70cdec19b0e8bd"
+      "sha256": "2e032a991aa64fdd6acf999a9e82e3a78f7cd222faabd5f655cc1031e53b0849"
     },
     {
       "path": "website-quality-review/assets/review-report.json",
-      "sha256": "d8d3fcd6450c912d40773b4adae0548cbf07c73546152f6699a51595531dda95"
+      "sha256": "d74eac70766bf8301835e77ac5df43033aa17f124eb8fe48707e29386c4f61f8"
     },
     {
       "path": "website-quality-review/references/checks.md",
       "sha256": "e12687f3021f0fd1b4119632470fbf2aa9c47ebed996677c1378d078e30084d0"
     },
     {
+      "path": "website-quality-review/references/coverage.md",
+      "sha256": "839809ee33f2d522506af28773853097e32e80a76045cf67f1e8fd876dfe74a3"
+    },
+    {
       "path": "website-quality-review/references/evidence.md",
       "sha256": "4c86cd3fdbb35384bdd6005a197c95a3181db9f2f2aee1fb21ebec8d631899ba"
+    },
+    {
+      "path": "website-quality-review/references/motion-review.md",
+      "sha256": "06a547d71249d3de6e2e538b16c52f5f40e8eb175707de9476effbdf8de2f2aa"
     },
     {
       "path": "website-quality-review/references/quality.md",
@@ -63,16 +71,32 @@
       "sha256": "9df4f81f01c55e15a87c29a9742a4793056af7761a119a46e3c7172d53d2c886"
     },
     {
+      "path": "website-quality-review/references/report-contract.md",
+      "sha256": "ef281d266126a1df6afd6c7ae08a729d861d38cfbbceaa581bfa74d03b331e3f"
+    },
+    {
+      "path": "website-quality-review/references/tools-portability.md",
+      "sha256": "2e92d89a8f032ca1d898abfce00f4d41f969cf8317465b5115d5a1a9de8a51ea"
+    },
+    {
+      "path": "website-quality-review/references/visual-comparison.md",
+      "sha256": "9afd0d00adc58f85e6ffb9ead43a325d48b44310a50da344f2ac2fd262a1eb5f"
+    },
+    {
       "path": "website-quality-review/scripts/review_check.py",
-      "sha256": "79ebf37bebe7f6421b661d692f900b6104d49da30925b6b2d6e5219452c8408e"
+      "sha256": "3b26a299dc9f6f629d77521de983e22e88f9dc2782173b421fe057eef9b7430f"
     },
     {
       "path": "website-quality-review/scripts/test_review_check.py",
       "sha256": "18d7565354438b08f4ce16195a763f5a4532069c0e59c34ce4b3b396213713b6"
     },
     {
+      "path": "website-quality-review/scripts/test_review_coverage.py",
+      "sha256": "0561c83b33e3612e2454f20001c7ff65bf3de2603e430325ea2411f132b1ea84"
+    },
+    {
       "path": "website-quality-review/SKILL.md",
-      "sha256": "d32665745b2790434b4524b30a21c8a6cabfd377d42d116eca1adfe604253ea3"
+      "sha256": "140dc222f1517dada521708d007f570b7f4e6952e53bd3fc627eea0280f0d885"
     }
   ]
 }

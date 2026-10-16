@@ -6,3 +6,5 @@
 
 OpenAI Skill结构参考：https://developers.openai.com/plugins/concepts/skills
 统一建站接口：https://github.com/Bonzogit/b2b-createsite
+
+0.3.0新增方法基于已有研究重新整理，不复制外部Skill全文、图像、运行库或私人证据。辅助来源及使用边界列于website-quality-review/references/tools-portability.md。
