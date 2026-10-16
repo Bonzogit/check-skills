@@ -1,0 +1,70 @@
+{
+  "version": "0.1.0",
+  "skill": "website-quality-review",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "7471a95b7e15a57001c7f26e776bea9dedd255693a32978df502579c5ac00313"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "3d2c943649a8b14321c76cdb4b6470daa1e248c0e9abc587e2889055a8bc57f7"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "6f72407870d5c5122351508de2f17d44b758dbf688284537646ec29003cf6dd4"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "de8028921fe629ea3370879dc211a4e45f17b0594fc93b65f7a80e8ce378e561"
+    },
+    {
+      "path": "README.md",
+      "sha256": "243a17cb8afe5eef755cec969d2a06654613589ac5eff3fc74b11b7d9d9d2833"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "74d6e2a0c2d275abf091face82ca9612e5689b34f1b8d0227974149c6e51532e"
+    },
+    {
+      "path": "tools/release_check.py",
+      "sha256": "13320f0e36f083a858cd6cd826674ce18625516084cf3965b90e64f8a22f9ce2"
+    },
+    {
+      "path": "VALIDATION.md",
+      "sha256": "bbfa81edcd07c3bc989624fcf05357fb7537391b3009a17e312ef33d5a4d6e5d"
+    },
+    {
+      "path": "VERSION",
+      "sha256": "3d097c315a1c543040f548da4c7051265e94c77211a2411ced1d4621344270de"
+    },
+    {
+      "path": "website-quality-review/agents/openai.yaml",
+      "sha256": "29db8a5d4b8745fef18141212b499b8e233c52ccb43d50552756dd3910ae9130"
+    },
+    {
+      "path": "website-quality-review/assets/review-report.json",
+      "sha256": "d8d3fcd6450c912d40773b4adae0548cbf07c73546152f6699a51595531dda95"
+    },
+    {
+      "path": "website-quality-review/references/checks.md",
+      "sha256": "e12687f3021f0fd1b4119632470fbf2aa9c47ebed996677c1378d078e30084d0"
+    },
+    {
+      "path": "website-quality-review/references/evidence.md",
+      "sha256": "4c86cd3fdbb35384bdd6005a197c95a3181db9f2f2aee1fb21ebec8d631899ba"
+    },
+    {
+      "path": "website-quality-review/scripts/review_check.py",
+      "sha256": "79ebf37bebe7f6421b661d692f900b6104d49da30925b6b2d6e5219452c8408e"
+    },
+    {
+      "path": "website-quality-review/scripts/test_review_check.py",
+      "sha256": "18d7565354438b08f4ce16195a763f5a4532069c0e59c34ce4b3b396213713b6"
+    },
+    {
+      "path": "website-quality-review/SKILL.md",
+      "sha256": "8bf2f7fe75f7b92f71a622802ea49dcae7eb9cfc4c874f5a999144a2fd127eb6"
+    }
+  ]
+}

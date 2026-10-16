@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "1.0",
+  "projectVersion": null,
+  "scope": {"mode": null, "affected": []},
+  "executor": null,
+  "independentReviewer": null,
+  "checks": [],
+  "findings": [],
+  "limitations": []
+}
